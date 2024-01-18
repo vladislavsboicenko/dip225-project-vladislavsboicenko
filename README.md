@@ -21,7 +21,7 @@
 **Programmas apraksts**
   - Tiek izmantotas "service" un "webdriver", lai darboties ar Chrome, automātiski atvērot to pēc programmas startēšanas un maksimālo Chrome izmēru.
     > service = Service()
-    option = webdriver.ChromeOptions()
+    > option = webdriver.ChromeOptions()
     option.add_argument("--start-maximized")
     driver = webdriver.Chrome(service=service, options=option)
 
