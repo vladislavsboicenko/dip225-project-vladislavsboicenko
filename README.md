@@ -19,7 +19,7 @@
         - "Keys", lai vadītu datora tastatūras taustiņus;
         - "time", lai veikt darbības ar laiku.
     ```
-###Programmas apraksts
+### Programmas apraksts
   - Tiek izmantotas "service" un "webdriver", lai darboties ar Chrome, automātiski atvērot to pēc programmas startēšanas un maksimālo Chrome izmēru.
     ```
     service = Service()
