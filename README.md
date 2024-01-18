@@ -12,12 +12,13 @@
 **Programmā tiek izmantota Python bibliotēka Selenium.**
   - Bibliotēka tiek izmantota, lai veiktu automatizācijas uzdevumus interneta pārlūkā.
   - No bibliotēkas tiek importēti moduļi:
+  ```
         - "webdriver", lai darboties ar dažādiem klasem un interneta pārlūkiem;
         - "Service", lai vadīt interneta pārlūku;
         - "By", lai meklētu elementus interneta pārlūkā;
         - "Keys", lai vadītu datora tastatūras taustiņus;
         - "time", lai veikt darbības ar laiku.
-
+  ```
 **Programmas apraksts**
   - Tiek izmantotas "service" un "webdriver", lai darboties ar Chrome, automātiski atvērot to pēc programmas startēšanas un maksimālo Chrome izmēru.
     > service = Service()
