@@ -1,7 +1,7 @@
 ## Projekts_Vladislavs Boičenko_231RDB387
 
 ### Paziņojums
-**Pirms programmas izmantošanas lūdzu, ievādiet savus datus "data" vietā, "user_data.csv" failā. "Study Program" kolonna vajag pilnīgi ievadiet studiju programmu, piemēram: Datorsistēmas (RDBD0).**
+Pirms programmas izmantošanas lūdzu, ievādiet savus datus "data" vietā, "user_data.csv" failā. "Study Program" kolonna vajag pilnīgi ievadiet studiju programmu, piemēram: Datorsistēmas (RDBD0).
 
 ### Projekta apraksts
 **Izveidot automatizētu programmu ar tādām funkcijām kā:**
