@@ -1,9 +1,9 @@
-# Projekts_Vladislavs Boičenko_231RDB387
+## Projekts_Vladislavs Boičenko_231RDB387
 
-## Paziņojums
+### Paziņojums
 **Pirms programmas izmantošanas lūdzu, ievādiet savus datus "data" vietā, "user_data.csv" failā. "Study Program" kolonna vajag pilnīgi ievadiet studiju programmu, piemēram: Datorsistēmas (RDBD0).**
 
-## Projekta apraksts
+### Projekta apraksts
 **Izveidot automatizētu programmu ar tādām funkcijām kā:**
   1) Automātiska "ORTUS" tīmekļa (ortus.rtu.lv) atvēršana, atbilstoši studenta datiem (lietotājvārds, parole). E-studiju nodāļa automātiska atvēršana.
 
@@ -19,7 +19,7 @@
         - "Keys", lai vadītu datora tastatūras taustiņus;
         - "time", lai veikt darbības ar laiku.
     ```
-**Programmas apraksts**
+###Programmas apraksts
   - Tiek izmantotas "service" un "webdriver", lai darboties ar Chrome, automātiski atvērot to pēc programmas startēšanas un maksimālo Chrome izmēru.
     ```
     service = Service()
